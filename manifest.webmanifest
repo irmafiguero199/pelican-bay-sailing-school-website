@@ -1,0 +1,16 @@
+{
+  "name": "Pelican Bay Sailing School Inc.",
+  "short_name": "PBSS",
+  "description": "A 501(c)(3) nonprofit providing accessible sailing education in Southwest Florida. EIN: 92-3488213.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a5f",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "images/logo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
